@@ -13,7 +13,4 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/ibelyaninova/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/ibelyaninova/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/ibelyaninova/Bug-Reports)
 - [Postman Collections](https://github.com/ibelyaninova/Postman-collections)
